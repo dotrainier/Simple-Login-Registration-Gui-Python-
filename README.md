@@ -138,10 +138,4 @@ This project is open source and available for educational and personal use.
 
 ---
 
-## 👨‍💻 Author
 
-Created by [Rainier Sapin](https://github.com/dotrainier)
-
----
-
-**Show your support by starring ⭐ this repository!**
